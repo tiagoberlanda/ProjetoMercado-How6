@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/06/21 09:27:08.000.249,=\\server-files\Pasta Perfil Movel\tiago.b\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 09:28:35.000.740,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\Unit1.pas=\\server-files\Pasta Perfil Movel\tiago.b\Meus Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 09:28:35.000.740,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\Unit1.fmx=\\server-files\Pasta Perfil Movel\tiago.b\Meus Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2022/06/21 09:28:37.000.761,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\Project1.dproj=\\server-files\Pasta Perfil Movel\tiago.b\Meus Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/06/21 09:28:47.000.927,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\UnitPrincipal.pas=\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 09:28:47.000.927,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\UnitPrincipal.fmx=\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\Unit1.fmx</Transaction>
+    <Transaction>2022/06/21 09:28:58.000.227,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\UnitLogin.fmx=\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\UnitPrincipal.fmx</Transaction>
+    <Transaction>2022/06/21 09:28:58.000.227,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\UnitLogin.pas=\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\UnitPrincipal.pas</Transaction>
+    <Transaction>2022/06/21 09:47:22.000.852,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\MeuMercado.dproj=\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\Project1.dproj</Transaction>
+    <Transaction>2022/06/21 09:49:01.000.680,=\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 09:49:48.000.802,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\UnitPrincipal.pas=\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\Unit1.pas</Transaction>
+    <Transaction>2022/06/21 09:49:48.000.802,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\UnitPrincipal.fmx=\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Projeto\Unit1.fmx</Transaction>
+    <Transaction>2022/06/28 10:26:09.000.737,=\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Meu Mercado\Unit1.pas</Transaction>
+    <Transaction>2022/06/28 10:26:21.000.950,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Meu Mercado\UnitData.dfm=\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Meu Mercado\Unit1.dfm</Transaction>
+    <Transaction>2022/06/28 10:26:21.000.950,\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Meu Mercado\UnitData.pas=\\server-files\Pasta Perfil Movel\tiago.b\Desktop\Delphi\Meu Mercado\Unit1.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

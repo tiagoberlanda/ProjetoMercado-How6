@@ -1,0 +1,16 @@
+program MeuMercado;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  UnitLogin in 'UnitLogin.pas' {Form_Login},
+  UnitPrincipal in 'UnitPrincipal.pas' {FormPrincipal};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TForm_Login, Form_Login);
+  Application.CreateForm(TFormPrincipal, FormPrincipal);
+  Application.Run;
+end.

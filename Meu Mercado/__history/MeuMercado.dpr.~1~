@@ -1,0 +1,14 @@
+program Project1;
+
+uses
+  System.StartUpCopy,
+  FMX.Forms,
+  UnitLogin in 'UnitLogin.pas' {Form_Login};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.CreateForm(TForm_Login, Form_Login);
+  Application.Run;
+end.
