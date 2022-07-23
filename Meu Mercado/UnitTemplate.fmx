@@ -1,0 +1,89 @@
+object FormTemplate: TFormTemplate
+  Left = 0
+  Top = 0
+  Caption = 'Template'
+  ClientHeight = 560
+  ClientWidth = 320
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 0
+  object Layout_superior: TLayout
+    Align = Top
+    Size.Width = 320.000000000000000000
+    Size.Height = 73.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object Layout_esquerdo: TLayout
+      Align = Left
+      Margins.Right = 2.000000000000000000
+      Size.Width = 61.000000000000000000
+      Size.Height = 72.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+    end
+    object Layout_direito: TLayout
+      Align = Right
+      Margins.Left = 2.000000000000000000
+      Position.X = 259.000000000000000000
+      Size.Width = 61.000000000000000000
+      Size.Height = 72.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+    end
+    object Line4: TLine
+      Align = Bottom
+      LineType = Bottom
+      Position.Y = 72.000000000000000000
+      Size.Width = 320.000000000000000000
+      Size.Height = 1.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object Layout_bemvindo: TLayout
+      Align = Client
+      Size.Width = 194.000000000000000000
+      Size.Height = 72.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Label_bemvindo: TLabel
+        Align = Top
+        StyledSettings = [Style, FontColor]
+        Size.Width = 194.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Arial'
+        TextSettings.Font.Size = 16.000000000000000000
+        TextSettings.HorzAlign = Center
+        Text = 'Bem Vindo!'
+        TabOrder = 2
+      end
+      object Label_nomeUsuario: TLabel
+        Align = Top
+        StyledSettings = [Style, FontColor]
+        Position.Y = 25.000000000000000000
+        Size.Width = 194.000000000000000000
+        Size.Height = 21.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Arial'
+        TextSettings.Font.Size = 16.000000000000000000
+        TextSettings.HorzAlign = Center
+        TabOrder = 0
+      end
+      object Label_nomeTela: TLabel
+        Align = Bottom
+        StyledSettings = [Style, FontColor]
+        Position.Y = 49.000000000000000000
+        Size.Width = 194.000000000000000000
+        Size.Height = 23.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Family = 'Arial'
+        TextSettings.Font.Size = 16.000000000000000000
+        TextSettings.HorzAlign = Center
+        Text = 'Template'
+        TabOrder = 1
+      end
+    end
+  end
+end
